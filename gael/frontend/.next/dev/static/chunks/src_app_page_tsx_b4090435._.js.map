@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/gaelc/Desktop/examenIngWeb/gael/gael/frontend/src/app/page.tsx"],"sourcesContent":["\"use client\";\n\nfunction HomePage() {\n  return (\n    <div className=\"min-h-screen bg-slate-900/95 backdrop-blur-md py-12 px-4 sm:px-6 lg:px-8\">\n      <div className=\"max-w-4xl mx-auto\">\n        <div className=\"text-center mb-16\">\n          <h1 className=\"text-5xl md:text-6xl font-bold bg-gradient-to-r from-slate-200 via-purple-400 to-slate-200 bg-clip-text text-transparent mb-6\">\n            NextApp\n          </h1>\n          <p className=\"text-xl md:text-2xl text-slate-400 max-w-2xl mx-auto leading-relaxed\">\n            Desarrollada por Gael Carrasco Bello\n          </p>\n        </div>\n      </div>\n    </div>\n  );\n}\n\nexport default HomePage;\n"],"names":[],"mappings":";;;;;AAAA;;AAEA,SAAS;IACP,qBACE,6LAAC;QAAI,WAAU;kBACb,cAAA,6LAAC;YAAI,WAAU;sBACb,cAAA,6LAAC;gBAAI,WAAU;;kCACb,6LAAC;wBAAG,WAAU;kCAAgI;;;;;;kCAG9I,6LAAC;wBAAE,WAAU;kCAAuE;;;;;;;;;;;;;;;;;;;;;;AAO9F;KAfS;uCAiBM"}}]
+}

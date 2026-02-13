@@ -1,0 +1,11 @@
+{
+  "[project]/src/components/maps/OSMMap.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/maps/OSMMap.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_11cd6a26._.js",
+      "static/chunks/src_components_maps_OSMMap_tsx_23e11bcb._.js",
+      "static/chunks/node_modules_leaflet_dist_leaflet_ef5f0413.css",
+      "static/chunks/src_components_maps_OSMMap_tsx_6a669df6._.js"
+    ]
+  }
+}

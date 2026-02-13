@@ -1,0 +1,10 @@
+[00:00:01.752] Server  LOG     ✓ Ready in 1327ms
+[00:00:04.516] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:04.727] Browser LOG     🔄 Inicializando auth...
+[00:00:04.727] Browser LOG     📱 Token encontrado, verificando...
+[00:00:04.727] Browser LOG     ✅ Usuario cargado: undefined
+[00:00:32.290] Browser ERROR   unhandledRejection: AxiosError: Request failed with status code 404
+[00:00:32.290] Browser ERROR   unhandledRejection: AxiosError: Request failed with status code 404
+[00:00:34.830] Browser LOG     🚪 Logout
+[00:00:38.523] Browser ERROR   unhandledRejection: AxiosError: Request failed with status code 404
+[00:00:38.523] Browser ERROR   unhandledRejection: AxiosError: Request failed with status code 404

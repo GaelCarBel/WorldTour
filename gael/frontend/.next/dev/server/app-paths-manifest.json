@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/conciertos/create/page": "app/conciertos/create/page.js",
+  "/conciertos/page": "app/conciertos/page.js",
+  "/giras/create/page": "app/giras/create/page.js",
+  "/giras/page": "app/giras/page.js",
+  "/page": "app/page.js",
+  "/reservas/page": "app/reservas/page.js",
+  "/resources/page": "app/resources/page.js"
+}
